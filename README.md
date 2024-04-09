@@ -1,6 +1,6 @@
 # Cell Phone Webshop
 
-Hosting link: https://github.com/sinefileblue/phone-page.git/.
+Hosting link: https://sinefileblue.github.io/phone-page/.
 
 ## User stories
 
