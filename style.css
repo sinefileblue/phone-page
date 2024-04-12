@@ -8,8 +8,8 @@ body {
 
 /* main banner carousel */
 .bg-highlight-white-text {
-  background: rgba(0, 0, 0, 0.4);
-  border-radius: 3rem;
+  background: rgba(100, 100, 200, 0.426);
+  border-radius: 1.95rem 3rem;
 }
 
 /* Phone models section */
@@ -25,8 +25,6 @@ body {
 
 .phone-img {
   border-radius: 25px;
-  height: 500px;
-  width: 500x;
 }
 
 .phone-img:hover {
@@ -91,10 +89,10 @@ body {
 	/* new rules start here: */
 	color: white;
 	background:
-		linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-		url(./images/phone-mockup1.png);
+		linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)),
+		url(./images/phone-mockup2.png);
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: top center;
 	background-size: cover;
 }
 
